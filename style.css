@@ -75,3 +75,11 @@ a {
     color: black;
 }
 
+#total {
+    font-weight: 900;
+}
+
+#porc {
+    font-weight: 500;
+}
+
